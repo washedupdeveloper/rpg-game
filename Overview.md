@@ -11,4 +11,4 @@ Light defense, so more susceptible to physical damage than the rogue
 ### [[Apothecary]]
 A support that creates mixtures of potions to either aid party members or ail the enemy. Light defense, so similarly susceptible to damage as the spellcaster.
 
-##[[Combat System]]
+## [[Combat System]]
